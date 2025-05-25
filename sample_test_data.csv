@@ -1,0 +1,6 @@
+profit_per_order,sales_per_customer,payment_type,customer_country,customer_segment,order_id,customer_id,shipping_date
+10.5,100,credit,USA,Consumer,1001,5001,2024-04-01
+15.0,150,cash,Canada,Corporate,1002,5002,2024-04-05
+8.0,80,credit,USA,Home Office,1003,5003,2024-04-10
+12.0,120,cash,Mexico,Consumer,1004,5004,2024-04-15
+9.5,95,credit,Canada,Corporate,1005,5005,2024-04-20
